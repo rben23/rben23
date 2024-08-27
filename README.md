@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ee9da2c1-1470-4bf5-ab7e-616119bdb187" alt="logo_rben23" width="250" height="250"/>
+  <img src="https://github.com/user-attachments/assets/bce13898-66eb-4315-8c50-497fb2690728" alt="logo_rben23" width="250" height="250"/>
 <h2>
   <strong>👋 ¡BIENVENID@ soy @rben23!</strong>
 </h2>  
