@@ -23,7 +23,7 @@
   ## 📒 Mi Portafolio
 <div>
 <h4>
-  👀 ¡Descubre mi <a href="https://rben23.vercel.app/">portafolios web</a>!
+  👀 ¡Descubre mi <a href="https://rben23.vercel.app/">portafolio web</a>!
 </h4>
 </div>
 
