@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bce13898-66eb-4315-8c50-497fb2690728" alt="logo_rben23" width="250" height="250"/>
-<h2>
+  <img src="https://github.com/user-attachments/assets/bce13898-66eb-4315-8c50-497fb2690728" alt="logo_rben23" width="230" height="230"/>
+<h1>
   <strong>👋 ¡BIENVENID@ soy @rben23!</strong>
-</h2>  
+</h1>  
 </div>
 
   ## 📃 Un poco de mi
