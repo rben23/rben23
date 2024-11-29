@@ -8,7 +8,7 @@
   ## 📃 Un poco de mi
 <div>
 <h4>
-  🎓 Estudiando de DAM (Desarrollo de Aplicaciones Multiplataforma).
+  🎓 Estudiando DAM (Desarrollo de Aplicaciones Multiplataforma).
 </h4>
   
 <h4>
