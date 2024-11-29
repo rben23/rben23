@@ -5,10 +5,10 @@
 </h2>  
 </div>
 
-  ## ➕ Un poco de mi
+  ## 📃 Un poco de mi
 <div>
 <h4>
-  🎓 Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma).
+  🎓 Estudiando de DAM (Desarrollo de Aplicaciones Multiplataforma).
 </h4>
   
 <h4>
@@ -20,7 +20,7 @@
 </h4>
 </div>
 
-  ## 📒 Mi Portafolio
+  ## ➕ Saber más
 <div>
 <h4>
   👀 ¡Descubre mi <a href="https://rben23.vercel.app/">portafolio web</a>!
