@@ -20,6 +20,14 @@
 </h4>
 </div>
 
+  ## 📊 Stats
+<div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=rben23&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=1c1c1c&hide_border=true" alt="rben23 stats card" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rben23&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=1c1c1c&hide_border=true&layout=compact" alt="rben23 stats card"/></p>
+</div>
+
   ## ➕ Saber más
 <div>
 <h4>
