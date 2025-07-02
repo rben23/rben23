@@ -1,39 +1,52 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bce13898-66eb-4315-8c50-497fb2690728" alt="logo_rben23" width="230" height="230"/>
-<h1>
-  <strong>👋 ¡BIENVENID@ soy @rben23!</strong>
-</h1>  
-</div>
-
-  ## 📃 Un poco de mi
-<div>
-<h4>
-  🎓 Estudiando DAM (Desarrollo de Aplicaciones Multiplataforma).
-</h4>
+  <img src="https://github.com/user-attachments/assets/bce13898-66eb-4315-8c50-497fb2690728" alt="logo_rben23" width="230" height="230" />
   
-<h4>
-  🧩 Desarrollo de Apps Web y Multiplataforma
-</h4>
-
-<h4>
-  🚀 Siempre intento aprender y mejorar en todo lo que hago. 
-</h4>
+  <h1><strong>👋 ¡BIENVENID@!</strong></h1>
+  <p><strong>Soy @rben23</strong></p>
 </div>
 
-  ## 📊 Stats
+---
+
+## 📋 Un poco sobre mí
+
+🎓 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma  
+🛠️ Apasionado por el desarrollo de software limpio, funcional y bien estructurado  
+🚀 Siempre intento aprender y mejorar en todo lo que hago  
+
+---
+
+## 💻 Lenguajes que manejo
+
+- Java  
+- Kotlin  
+- C#  
+- HTML, CSS
+
+---
+
+## ⚙️ Tecnologías con las que he trabajado
+
+- Spring Boot  
+- OpenStreetMap  
+- Git  
+- Jetpack Compose  
+
+---
+
+## 📊 Estadísticas
+
 <div align="center">
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rben23&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=1c1c1c&hide_border=true" alt="rben23 stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rben23&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=1c1c1c&hide_border=true&layout=compact" alt="rben23 stats card"/>
-</p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=rben23&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=1c1c1c&hide_border=true" alt="rben23 stats card"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rben23&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=1c1c1c&hide_border=true&layout=compact" alt="rben23 top langs card"/>
+  </p>
 </div>
 
-  ## ➕ Saber más
-<div>
-<h4>
-  👀 ¡Descubre mi <a href="https://rben23.vercel.app/">portafolio web</a>!
-</h4>
-</div>
+---
+
+## 🔗 Saber más
+
+👀 ¡Descubre mi [portafolio web](https://rben23.vercel.app/)!  
 
 <!---
 rben23/rben23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
