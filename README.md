@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bce13898-66eb-4315-8c50-497fb2690728" alt="logo_rben23" width="230" height="230" />
+  <!-- <img src="https://github.com/user-attachments/assets/bce13898-66eb-4315-8c50-497fb2690728" alt="logo_rben23" width="230" height="230" /> -->
+
+  <img width="707" height="353" alt="Banner_github_rben23" src="https://github.com/user-attachments/assets/e6733d8e-db08-4a07-a9ab-84baac04bfd0" alt="banner_rben23" width="230" height="230"  />
+
   
   <h1><strong>👋 ¡BIENVENID@!</strong></h1>
   <p><strong>Soy @rben23</strong></p>
