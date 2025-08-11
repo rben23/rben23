@@ -23,7 +23,7 @@
 - Java  
 - Kotlin  
 - C#  
-- HTML, CSS
+- Angular (HTML, SCSS, TS)
 
 ---
 
@@ -32,7 +32,8 @@
 - Spring Boot  
 - OpenStreetMap  
 - Git  
-- Jetpack Compose  
+- Jetpack Compose
+- Angular
 
 ---
 
