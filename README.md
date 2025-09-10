@@ -50,7 +50,7 @@
 
 ## 🔗 Saber más
 
-👀 ¡Descubre mi [portafolio web](https://rben23.vercel.app/)!  
+👀 ¡Descubre mi [portafolio web]([https://rben23.vercel.app/](https://rubenparadis.vercel.app/)!  
 
 <!---
 rben23/rben23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
